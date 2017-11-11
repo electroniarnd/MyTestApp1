@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     };
     //Comment1 added
+    //Comment2 added
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
